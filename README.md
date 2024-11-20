@@ -19,4 +19,13 @@ LNMP，参考（CentOS9/nginx/mysql8.0/PHP8.2）,CentOS9为最小安装；
 
 	第一次访问后台管理时时会自动创建admin，默认密码admin123
 
+## 样例图示
+### 登录管理页面
+![image](https://github.com/user-attachments/assets/2f69d676-dad9-48e9-9e9c-541d0a79e74d)
+### 导航项管理
+![image](https://github.com/user-attachments/assets/8b177b2e-48ee-4e9c-8347-6eca9e44cad3)
+### 类别管理页面
+![image](https://github.com/user-attachments/assets/3ceb8be4-690a-41ac-830d-2b7918a285cc)
+### 导航页面
+![image](https://github.com/user-attachments/assets/4b900343-90d1-4a13-b2b0-7840928fddc5)
 
